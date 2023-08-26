@@ -17,6 +17,17 @@ Authour:**Brian Mwangi Maina**
 
 ### How Each of the Programs Run:
 
+*Restaurant.py* - *name: This is a property method that gets the value of the _name attribute.
+reviews: This method returns a list of all reviews for the restaurant.
+customers: This method returns a list of all unique customers who have reviewed the restaurant.*
+
+*Customer.py* - *given_name and family_name: These are property methods that get and set the value of the _given_name and _family_name attributes.
+full_name: This method returns the full name of the customer.
+all: This class method returns the list of all customer instances.*
+
+*Review.py* -*rating, customer, and restaurant: These are property methods that get the value of the _rating, _customer, and _restaurant attributes.
+all: This class method returns the list of all review instances.*
+
 #### License 
 
 Copyright (c) 2023 Brian Mwangi Maina
