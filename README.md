@@ -15,7 +15,7 @@ Authour:**Brian Mwangi Maina**
 <li>cd into *PHASE-3-WK2-CodeChallenge*
 <li>Finally, open up vs.code by typing in code . while in the repository.
 
-### How Each of the Programs Run:
+### What Goes Into Making The Programs Run:
 
 *Restaurant.py* - name: This is a property method that gets the value of the _name attribute.
 reviews: This method returns a list of all reviews for the restaurant.
